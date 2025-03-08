@@ -1,0 +1,93 @@
+.explore-menu {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Add more space between the heading and menu items */
+  .explore-menu h1 {
+    margin-bottom: 15px; /* Increase spacing below heading */
+  }
+  
+  .explore-menu-text {
+    margin-bottom: 25px; /* Increase spacing below description */
+  }
+  
+  /* Scrollable Menu */
+  .explore-menu-list {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+    -ms-overflow-style: none; /* Hide scrollbar for IE */
+    padding: 20px 50px; /* Increased top & bottom padding for more space */
+  }
+  
+  .explore-menu-list::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome */
+  }
+  
+  .explore-menu-list-item {
+    min-width: 120px;
+    margin: 0 20px; /* Increase spacing between items */
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  /* Adjust images to have better spacing */
+  .explore-menu-list-item img {
+    width: 130px; /* Increase from 80px to 100px */
+    height: 130px; /* Increase from 80px to 100px */
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 12px; /* Increase spacing below image */
+  }
+  
+  .explore-menu-list-item img.active {
+    transform: scale(1.2); /* Slightly bigger on selection */
+    border: 3px solid red; /* Make the active border thicker */
+  }
+  
+  /* Scroll Buttons */
+  .scroll-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: background 0.3s;
+    z-index: 2; /* Ensure arrows are above menu */
+  }
+  
+  .scroll-btn:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Position Arrows Properly */
+  .scroll-btn.left {
+    left: 10px;
+  }
+  
+  .scroll-btn.right {
+    right: 10px;
+  }
+  
+  /* Make Arrows Responsive */
+  @media (max-width: 768px) {
+    .scroll-btn {
+      font-size: 16px;
+      padding: 8px;
+    }
+  
+    .explore-menu-list-item {
+      min-width: 100px;
+      margin: 0 10px;
+    }
+  }
+  

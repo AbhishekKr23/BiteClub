@@ -1,0 +1,32 @@
+/* Default Light Mode */
+body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  /* Dark Mode */
+  body.dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+  
+  /* Dark Mode Button */
+  .dark-mode-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .dark-mode-toggle:hover {
+    background: white;
+    color: black;
+  }
+  
