@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://biteclub-backend.vercel.app/'
+export const url = 'https://biteclubbackend.netlify.app/'
