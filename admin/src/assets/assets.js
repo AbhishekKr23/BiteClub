@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://biteclub-production.up.railway.app/'
+export const url = 'https://biteclub-backend.onrender.com'
