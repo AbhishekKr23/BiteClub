@@ -1,0 +1,101 @@
+# 🍔 **Food Delivery Website**
+
+> A delicious way to order your favorite meals online. Experience seamless food delivery at your fingertips!
+
+![Food Delivery](https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg)
+
+## 🚀 **Overview**
+Welcome to the **Food Delivery Website**! Built using the powerful **MERN Stack** with secure payment processing via **Stripe**, this platform ensures a delightful user experience. Browse a variety of cuisines, add to your cart, and enjoy quick doorstep delivery.
+
+---
+
+## 🛠️ **Tech Stack**
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Payment Integration:** Stripe
+- **Version Control:** Git & GitHub
+
+---
+
+## ✨ **Features**
+- ✅ User Registration & Login
+- 🍕 Browse Food Categories
+- 🛒 Add to Cart & Place Orders
+- 💳 Secure Payment via Stripe
+- 📜 Order History Management
+- 🌐 Responsive Design
+
+---
+
+## 🧑‍💻 **Installation**
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/food-delivery-website.git
+cd food-delivery-website
+```
+
+### Install Dependencies
+```bash
+# Frontend
+cd client
+npm install
+
+# Backend
+cd ../server
+npm install
+```
+
+### Configure Environment Variables
+Create a `.env` file with the following:
+```env
+MONGO_URI=your_mongodb_uri
+STRIPE_SECRET_KEY=your_stripe_secret_key
+STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
+```
+
+### Run the Application
+```bash
+# Start Backend Server
+cd server
+npm start
+
+# Start Frontend Server
+cd client
+npm start
+```
+
+🌐 Open `http://localhost:3000` to explore the app.
+
+---
+
+## 📡 **API Endpoints**
+| Method | Endpoint               | Description               |
+|---------|------------------------|---------------------------|
+| POST    | `/api/auth/register`   | Register a new user       |
+| POST    | `/api/auth/login`      | Login to your account     |
+| GET     | `/api/food`            | Get available food items  |
+| POST    | `/api/order`           | Place an order            |
+| GET     | `/api/order/:userId`   | View your order history   |
+
+---
+
+## 🌍 **Demo**
+- 🧑‍💻 [GitHub Repository](https://github.com/yourusername/food-delivery-website)
+- 🌐 [Live Site](https://yourlivesite.com)
+
+---
+
+## 🤝 **Contributing**
+We welcome contributions! Fork the repository, make your changes, and submit a pull request.
+
+---
+
+## 📜 **License**
+This project is licensed under the **MIT License**.
+
+---
+
+**🍽️ Built with love by Abhishek Kumar**
+
