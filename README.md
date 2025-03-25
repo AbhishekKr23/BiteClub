@@ -27,15 +27,6 @@ Welcome to the **Food Delivery Website**! Built using the powerful **MERN Stack*
 - 🌐 Responsive Design
 
 
-🖼️ Screenshots
-
-🏠 Homepage
-
-
-
-🛒 Cart Page
-
-
 
 💳 Payment Page
 ---
