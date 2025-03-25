@@ -28,9 +28,11 @@ Welcome to the **Food Delivery Website**! Built using the powerful **MERN Stack*
 
 
 🖼️ Screenshots
-🏠 Homepage
-🛒 Cart Page
-💳 Payment Page
+🏠 Homepage - ![ss](https://github.com/user-attachments/assets/f1026a1b-8d55-493b-abe8-6ac9ddca4760)
+
+🛒 Cart Page - ![ss1](https://github.com/user-attachments/assets/03e6feb9-9756-403b-8dc2-4f27d1ff7984)
+
+
 ---
 
 ## 🧑‍💻 **Installation**
