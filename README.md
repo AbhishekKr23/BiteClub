@@ -26,9 +26,10 @@ Welcome to the **Food Delivery Website**! Built using the powerful **MERN Stack*
 - 📜 Order History Management
 - 🌐 Responsive Design
 
+
 ---
 
-🖼️ Screenshots 
+🖼️ **Screenshots** 
 
 🏠 Homepage - ![ss](https://github.com/user-attachments/assets/f1026a1b-8d55-493b-abe8-6ac9ddca4760)
 
