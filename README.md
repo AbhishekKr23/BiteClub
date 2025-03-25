@@ -34,10 +34,12 @@ Welcome to the **Food Delivery Website**! Built using the powerful **MERN Stack*
 ## 🖼️ **Screenshots**
 
 ### 🏠 **Homepage**
+![ss](https://github.com/user-attachments/assets/8d50531f-7e99-44df-9547-a1e4568da668)
 
 
 
 ### 🛒 **Cart Page**
+![ss1](https://github.com/user-attachments/assets/3fecd64c-d8b2-4877-98b2-8113f7e1ae74)
 
 
 
@@ -111,7 +113,7 @@ npm start
 ## 🌍 **Demo**
 
 - 🧑‍💻 [GitHub Repository](https://github.com/yourusername/food-delivery-website)
-- 🌐 [Live Site](https://yourlivesite.com)
+- 🌐 [Live Site](https://biteclub.onrender.com/)
 
 ---
 
