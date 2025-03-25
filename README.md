@@ -1,6 +1,6 @@
 # 🍔 **Food Delivery Website**
 
-> A delicious way to order your favorite meals online. Experience seamless food delivery at your fingertips!
+> 🍽️ Your go-to platform for exploring delicious meals and getting them delivered to your doorstep!
 
 
 
