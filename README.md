@@ -121,11 +121,6 @@ npm start
 
 We welcome contributions! Fork the repository, make your changes, and submit a pull request.
 
----
-
-## 📜 **License**
-
-This project is licensed under the **MIT License**.
 
 ---
 
