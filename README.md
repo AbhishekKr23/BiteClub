@@ -2,7 +2,7 @@
 
 > A delicious way to order your favorite meals online. Experience seamless food delivery at your fingertips!
 
-![Food Delivery](https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg)
+
 
 ## 🚀 **Overview**
 Welcome to the **Food Delivery Website**! Built using the powerful **MERN Stack** with secure payment processing via **Stripe**, this platform ensures a delightful user experience. Browse a variety of cuisines, add to your cart, and enjoy quick doorstep delivery.
@@ -87,13 +87,6 @@ npm start
 
 ---
 
-## 🤝 **Contributing**
-We welcome contributions! Fork the repository, make your changes, and submit a pull request.
-
----
-
-## 📜 **License**
-This project is licensed under the **MIT License**.
 
 ---
 
